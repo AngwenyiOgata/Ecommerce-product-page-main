@@ -46,7 +46,7 @@ Users should be able to:
 ### What I learned
 
 To do a slideShow for the product image on small screens.
-And am getting atleast to write more `Js` code to get used and improve and put to work my skill
+And am getting atleast to write more `Js` code to get used and improve and put to work my skill.
 
 ## Author
 
