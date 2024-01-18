@@ -546,7 +546,7 @@ body{
     height: 5px;
     content: '';
     position: absolute;
-    bottom: -3.3rem;
+    bottom: -3.5rem;
     transition: .3s ease-in;
   }
   .app__header-ul a:focus::after,
